@@ -1,0 +1,7 @@
+memory-profiler==0.61.0
+pandas
+numpy
+py-spy
+matplotlib
+seaborn
+emoji
