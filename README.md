@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # LATAM Data Engineer Challenge
 
 Este repositorio contiene las soluciones al desafío de data engineering de LATAM. El desafío consiste en resolver tres problemas diferentes usando dos enfoques por cada problema: uno optimizando el tiempo de ejecución y otro optimizando el uso de memoria. A continuación, se detallan las soluciones implementadas, así como sugerencias de mejoras y una guía paso a paso para realizar las pruebas en un entorno AWS.
@@ -143,6 +142,3 @@ def q3_memory(file_path: str) -> List[Tuple[str, int]]:
     print(f"Uso de memoria: {max(mem_usage) - min(mem_usage)} MiB")
     ```
     
-=======
-# latam-data-engineer-challenge
->>>>>>> 035391cfb0967507bc9ff8d3f8bab23cf7257b53
